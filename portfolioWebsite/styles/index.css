@@ -38,5 +38,7 @@
 .footer {
     background-color: rgb(127, 214, 255);
     font-size: 20px;
+    bottom: 0;
+    display:flex
 
 }
