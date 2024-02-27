@@ -17,12 +17,12 @@
 .name {
     background-color: rgb(127, 214, 255);
     text-align: center;
-    font-size: x-large;
+    font-size: 70px;
 }
 
 .about-me {
     background-color: rgb(92, 230, 196);
     display: inline-block;
-    font-size: larger;
+    font-size: 40px;
 
 }
