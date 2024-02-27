@@ -1,10 +1,31 @@
-.table {
-    border: 1px solid;
-    width: 100%;
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family:'Trebuchet MS';
+  }
+
+.title {
+    text-align: center;
 }
 
+table, th, td {
+    border: 1px solid;
+
+}
+
+table {
+    width: 100%;
+  }
+  
+th {
+    height: 70px;
+  }
+
 .footer {
+    position: fixed;
     background-color: rgb(127, 214, 255);
     font-size: 20px;
     bottom: 0;
+    width: 100%;
+    text-align: center;
 }
