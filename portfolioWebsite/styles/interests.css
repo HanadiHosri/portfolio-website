@@ -2,3 +2,9 @@
     border: 1px solid;
     width: 100%;
 }
+
+.footer {
+    background-color: rgb(127, 214, 255);
+    font-size: 20px;
+    bottom: 0;
+}

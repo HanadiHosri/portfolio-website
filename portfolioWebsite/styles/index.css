@@ -1,6 +1,5 @@
 * {
     margin: 0;
-    padding: 0;
     box-sizing: border-box;
     font-family:'Trebuchet MS';
   }
@@ -18,6 +17,7 @@
     font-size: 30px;
     background-color: rgb(127, 214, 255);
     text-align: center;
+
 }
 
 .name {
@@ -27,18 +27,26 @@
 }
 
 .about-me {
-    background-color: rgb(92, 230, 196);
     display: inline-block;
     font-size: 40px;
+    padding-left: 20px;
 
 }
 
+.interests {
+    padding-top: 50px;
+    padding-left: 20px;
+}
 
+.section {
+    background-color: rgb(92, 230, 196);
+}
 
 .footer {
+    position:fixed;
+    width: 100%;
     background-color: rgb(127, 214, 255);
     font-size: 20px;
     bottom: 0;
-    display:flex
-
+    text-align: center; 
 }
